@@ -1,0 +1,6 @@
+# EJEMPLO: reemplazar por las 38 estaciones reales.
+# Carpeta = nombre exacto de la carpeta en el NAS. Varias bases: una fila por base o "A;B".
+# CarpetaLocal e InstanciaSql son opcionales (vacio = valores de appsettings / instancia por defecto).
+Carpeta,IP,Base,CarpetaLocal,InstanciaSql
+1.TEXACO AGUILARES,192.168.1.2,JosaraEstacion,,
+2.ESTACION EJEMPLO,192.168.2.2,GFEEstacion;EDEMEstacion,auto,
