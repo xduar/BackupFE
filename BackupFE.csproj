@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- .NET Framework 4.6.2 viene incluido en Windows Server 2016: no hay que instalar nada en las estaciones -->
+    <TargetFramework>net462</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>BackupFE</AssemblyName>
+    <RootNamespace>BackupFE</RootNamespace>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+    <DebugType>none</DebugType>
+    <Version>1.0.0</Version>
+    <Product>BackupFE</Product>
+    <Company>Grupo FE</Company>
+    <Description>Backups FULL de SQL Server al NAS</Description>
+  </PropertyGroup>
+
+  <!-- Central\ es el nuevo orquestador .NET 8 (proyecto aparte): no compilarlo aqui -->
+  <ItemGroup>
+    <Compile Remove="Central\**" />
+    <None Remove="Central\**" />
+    <Content Remove="Central\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.Extensions" />
+  </ItemGroup>
+
+</Project>

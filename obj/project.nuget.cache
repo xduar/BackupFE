@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Mdt738/b0A=",
+  "success": true,
+  "projectFilePath": "C:\\wamp64\\www\\BackupFE\\BackupFE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

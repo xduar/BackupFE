@@ -1,0 +1,8 @@
+C:\wamp64\www\BackupFE\bin\Debug\net462\BackupFE.exe.config
+C:\wamp64\www\BackupFE\bin\Debug\net462\BackupFE.exe
+C:\wamp64\www\BackupFE\obj\Debug\net462\BackupFE.csproj.AssemblyReference.cache
+C:\wamp64\www\BackupFE\obj\Debug\net462\BackupFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\BackupFE\obj\Debug\net462\BackupFE.AssemblyInfoInputs.cache
+C:\wamp64\www\BackupFE\obj\Debug\net462\BackupFE.AssemblyInfo.cs
+C:\wamp64\www\BackupFE\obj\Debug\net462\BackupFE.csproj.CoreCompileInputs.cache
+C:\wamp64\www\BackupFE\obj\Debug\net462\BackupFE.exe
